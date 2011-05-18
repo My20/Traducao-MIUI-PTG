@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string-array name="default_smiley_texts">
+        <item>:-D</item>
+        <item>;-P</item>
+        <item>;-|</item>
+        <item>:\'(</item>
+        <item>;-)</item>
+        <item>;-l</item>
+        <item>:-B</item>
+        <item>;\'(</item>
+        <item>\@=</item>
+        <item>:-(</item>
+        <item>:-|</item>
+        <item>B-)</item>
+        <item>:-*</item>
+        <item>^~^</item>
+        <item>;-%</item>
+        <item>:-)</item>
+        <item>:-x</item>
+        <item>X(</item>
+        <item>:-?</item>
+        <item>:-!</item>
+        <item>:-{</item>
+        <item>:-O</item>
+        <item>:-?</item>
+        <item>:-[</item>
+        <item>\'-|</item>
+        <item>:-1</item>
+        <item>:-2</item>
+        <item>:-z</item>
+        <item>:ok:</item>
+        <item>:pc:</item>
+        <item>:gl:</item>
+        <item>O_O</item>
+    </string-array>
+    <string-array name="extend_smiley_texts">
+        <item>;-|</item>
+        <item>:\'(</item>
+        <item>:-D</item>
+        <item>;\'(</item>
+        <item>:-x</item>
+        <item>;-l</item>
+        <item>:x</item>
+        <item>:-!</item>
+        <item>:pc:</item>
+        <item>O_O</item>
+        <item>O_O</item>
+        <item>:-[</item>
+        <item>:-*</item>
+        <item>:-?</item>
+        <item>^~^</item>
+        <item>;-%</item>
+        <item>:-B</item>
+        <item>:ok:</item>
+        <item>:-z</item>
+        <item>:-|</item>
+        <item>;\'(</item>
+        <item>:-2</item>
+        <item>:-(</item>
+        <item>;\'(</item>
+        <item>:-2</item>
+        <item>;-%</item>
+        <item>:-O</item>
+        <item>:-(</item>
+        <item>:-(</item>
+        <item>;\'(</item>
+        <item>;\'(</item>
+        <item>:-B</item>
+        <item>;-l</item>
+        <item>;-)</item>
+        <item>;-|</item>
+        <item>:-1</item>
+        <item>\'-|</item>
+        <item>:-?</item>
+        <item>:-O</item>
+        <item>:-{</item>
+        <item>;-P</item>
+        <item>;P</item>
+        <item>:-?</item>
+        <item>X-(</item>
+        <item>X(</item>
+        <item>X(</item>
+        <item>:-x</item>
+        <item>:-)</item>
+        <item>:-)</item>
+        <item>;-%</item>
+        <item>:-|</item>
+        <item>:-D</item>
+        <item>B-)</item>
+        <item>B-)</item>
+        <item>;-%</item>
+        <item>:gl:</item>
+        <item>\@=</item>
+        <item>\'-|</item>
+        <item>:-)</item>
+        <item>:-B</item>
+        <item>:-D</item>
+    </string-array>
+    <string-array name="prefEntries_ringtone_repeat">
+        <item>1 vez</item>
+        <item>2 vezes</item>
+        <item>3 vezes</item>
+        <item>5 vezes</item>
+        <item>10 vezes</item>
+    </string-array>
+    <string-array name="prefValues_ringtone_repeat">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>5</item>
+        <item>10</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 Segundo</item>
+        <item>2 Segundos</item>
+        <item>3 Segundos</item>
+        <item>4 Segundos</item>
+        <item>5 Segundos</item>
+        <item>6 Segundos</item>
+        <item>7 Segundos</item>
+        <item>8 Segundos</item>
+        <item>9 Segundos</item>
+        <item>10 Segundos</item>
+        <item>Outro...</item>
+    </string-array>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>Sempre</item>
+        <item>Só quando em silêncio</item>
+        <item>Nunca</item>
+    </string-array>
+    <string-array name="prefValues_vibrateWhen">
+        <item>always</item>
+        <item>silent</item>
+        <item>never</item>
+    </string-array>
+</resources>

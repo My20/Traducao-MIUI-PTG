@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="default_device_name">Android</string>
+    <string name="next_button_label">Próxima</string>
+    <string name="back_button_label">Voltar</string>
+    <string name="skip_button_label">Ignorar</string>
+    <string name="done_button_label">Concluído</string>
+    <string name="keyboard_tutorial_title">Como usar o teclado virtual</string>
+    <string name="open_the_keyboard"><b><font size="17">Abrir o teclado\n</font></b><font size="3">\n</font>Toque em qualquer campo de texto.</string>
+    <string name="close_the_keyboard"><b><font size="17">Fechar o teclado\n</font></b><font size="3">\n</font>Pressione a tecla Voltar.</string>
+    <string name="touch_and_hold"><b><font size="17">Toque e mantenha pressionada uma tecla para ver as opções\n</font></b><font size="3">\n</font>Acesse a pontuação e os acentos.</string>
+    <string name="keyboard_settings"><b><font size="17">Configurações de teclado\n</font></b><font size="3">\n</font>Toque e mantenha pressionada a tecla <b>?123</b>.</string>
+</resources>

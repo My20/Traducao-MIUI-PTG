@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="wallpapers">Wallpaper Fumo Mágico</string>
+    <string name="wallpaper_magicsmoke">Fumo Mágico</string>
+    <string name="author">Google</string>
+    <string name="magicsmoke_desc">Desenha Fumo, Nuvens, Água e Plasma.</string>
+    <string name="ok">OK</string>
+    <string name="taptochange">Tocar para alterar</string>
+</resources>

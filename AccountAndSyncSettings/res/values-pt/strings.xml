@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_label">Definições de conta e sincronização</string>
+    <string name="sync_settings">Contas e configurações de sincronização</string>
+    <string name="sync_too_many_deletes">o limite foi excedido em Excluir</string>
+    <string name="background_data">Dados de plano de fundo</string>
+    <string name="background_data_summary">Os aplicativos podem sincronizar, enviar e receber dados a qualquer momento</string>
+    <string name="background_data_dialog_title">Atenção</string>
+    <string name="background_data_dialog_message">Desabilitando fundo dados amplia a vida útil da bateria e reduz o uso de dados. Alguns aplicativos podem ainda usar a conexão de dados em plano de fundo.</string>
+    <string name="sync_automatically">Auto-sincronização</string>
+    <string name="sync_automatically_summary">Aplicações sincronizam dados automaticamente</string>
+    <string name="settings_backup">Fazer backup de configurações</string>
+    <string name="settings_backup_summary">Fazer backup de minhas configurações</string>
+    <string name="sync_menu_sync_now">Sincronizar agora</string>
+    <string name="sync_menu_sync_cancel">Cancelar sincronização</string>
+    <string name="sync_one_time_sync">Toque para sincronizar agora\n%1$s</string>
+    <string name="sync_gmail">Gmail</string>
+    <string name="sync_calendar">Calendário</string>
+    <string name="sync_contacts">Contactos</string>
+    <string name="sync_too_many_deletes_desc">Existem %1$d itens excluídos para %2$s, conta %3$s. O que você gostaria de fazer?</string>
+    <string name="sync_really_delete">Exclua os itens.</string>
+    <string name="sync_undo_deletes">Desfazer a exclusão.</string>
+    <string name="sync_do_nothing">Não faça nada por enquanto.</string>
+    <string name="sync_is_failing">Sincronização está com problemas. Estará de volta em breve.</string>
+    <string name="sync_plug"><font fgcolor="#ffffffff">Bem-vindo à sincronização Google!</font> \nA abordagem do Google para a sincronização de dados para permitir o acesso aos seus contatos, compromissos e muito mais de onde você estiver.0020</string>
+    <string name="header_application_sync_settings">Configurações de sincronização do aplicativo</string>
+    <string name="header_manage_accounts">Gerir contas</string>
+    <string name="header_manage_default_accounts">Conta padrão</string>
+    <string name="header_general_sync_settings">Configurações de sincronização geral</string>
+    <string name="sync_enabled">Sincronização está ligada</string>
+    <string name="sync_disabled">Sincronização está desligada</string>
+    <string name="sync_error">Erro de sincronização</string>
+    <string name="add_account_label">Adicionar Conta</string>
+    <string name="header_data_and_synchronization">Dados e sincronização</string>
+    <string name="preference_change_password_title">Alterar Senha</string>
+    <string name="header_account_settings">Configuração de Conta</string>
+    <string name="remove_account_label">Eliminar conta</string>
+    <string name="header_add_an_account">Adicionar uma conta</string>
+    <string name="finish_button_label">Terminar</string>
+    <string name="really_remove_account_title">Eliminar conta</string>
+    <string name="really_remove_account_message">Você realmente deseja remover esta conta? Removê-la também vai eliminar todas as suas mensagens, contactos e outros dados do telefone.Proceed?</string>
+    <string name="remove_account_failed">Esta conta é exigida por alguns aplicativos. Você só pode removê-la, redefinindo o telefone para padrões de fábrica (que exclui todos os seus dados pessoais). Para fazer isso no aplicativo de configuração, em privacidade.</string>
+    <string name="provider_label">Carregar as assinaturas</string>
+    <string name="sync_item_title">Sincronização %s</string>
+    <string name="cant_sync_dialog_title">Não é possível sincronizar manualmente</string>
+    <string name="cant_sync_dialog_message">A sincronização para este item está atualmente desactivada. Para alterar sua preferência, desactivar temporariamente os dados de fundo e sincronização automática.</string>
+</resources>

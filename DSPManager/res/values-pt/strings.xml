@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">DSPManager</string>
+    <string name="dB">+0 dB</string>
+    <string name="select_configuration_title">Selecione Configuração Para Editar</string>
+    <string name="headset_title">Auricular</string>
+    <string name="speaker_title">Phone Speaker</string>
+    <string name="bluetooth_title">Dispositivo Bluetooth</string>
+    <string name="dsp_settings">Configurações de DSP</string>
+    <string name="pref_dsp_title">Dynamic Range Compression</string>
+    <string name="pref_dsp_summary_on">A compressão está ativada</string>
+    <string name="pref_dsp_summary_off">A compressão está desativada</string>
+    <string name="pref_dsp_enable">Activar</string>
+    <string name="pref_effect_title">Selecione Força do Efeito</string>
+    <string name="dialog_effect">Força do Efeito</string>
+    <string name="pref_equalizer_title">Equalizador</string>
+    <string name="pref_equalizer_summary_on">Equalizador está ativado</string>
+    <string name="pref_equalizer_summary_off">Equalizador está desativado</string>
+    <string name="pref_equalizer_enable">Activar</string>
+    <string name="pref_bassboost_title">Bass Boost</string>
+    <string name="pref_bassboost_summary_on">Bass Boost está ativado</string>
+    <string name="pref_bassboost_summary_off">Bass Boost está desativado</string>
+    <string name="pref_bassboost_enable">Activar</string>
+    <string name="pref_headset_virtual_title">Auricular com efeito virtual Sala</string>
+    <string name="pref_headset_virtual_summary_on">Auricular com efeito virtual Sala ativo</string>
+    <string name="pref_headset_virtual_summary_off">Auricular com efeito virtual Sala está desativado</string>
+    <string name="pref_headset_virtual_enable">Activar</string>
+    <string name="pref_room_title">Select Room Type</string>
+    <string name="dialog_room">Room Type</string>
+    <string name="menu_reset">Reiniciar</string>
+</resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">Lanterna</string>
+    <string name="about">Sobre:</string>
+    <string name="about_btn">Sobre a Lanterna</string>
+    <string name="about_title">Sobre</string>
+    <string name="about_close">Fechar</string>
+    <string name="description">Este programa manipula a câmera LED.\n</string>
+    <string name="warning">Aviso: Deixar o LED por muito tempo pode criar superaquecimento.\n\nBrilho total \'always onfoi testado em execução 1/2,h mas o risco é que pode danificar o LED.\n</string>
+    <string name="license">Original code from Nexus One Torch by Ben Buxton, released under the GPL, v3.\nhttp://n1torch.googlecode.com/\n\nThanks to David Prieto for new UI design.\n\nModified for CyanogenMod by Steve Kondik.\n\n</string>
+    <string name="warning_label">Alerta</string>
+    <string name="brightwarn">Brilho total foi testado com sucesso por uma meia hora de operação, mas ficou bastante quente, e começou a cintilação (temporariamente) em 45 minutos. Os efeitos a longo prazo são desconhecidos. \n\nEsta não é compatível com o widget ainda.\n\nClique \"Accept\'se você quiser usá-lo em seu próprio risco.</string>
+    <string name="brightwarn_title">Hi-brite \'On\' button!!!</string>
+    <string name="brightwarn_negative">Não, obrigado</string>
+    <string name="brightwarn_accept">Aceitar</string>
+    <string name="label_on">On</string>
+    <string name="label_off">Off</string>
+    <string name="label_high">Alto brilho</string>
+    <string name="label_strobe">Strobe</string>
+    <string name="label_frequency">Freqüência: (slide para mudar)</string>
+    <string name="widget_options">Opções gerais</string>
+    <string name="setting_widget_bright">Brilho Widget</string>
+    <string name="setting_widget_strobe">Strobe flash</string>
+    <string name="setting_frequency_title">frequência do estroboscópio</string>
+    <string name="setting_frequency_summary">Frequência de luz estroboscópica</string>
+    <string name="setting_frequency_dialog">Frequência</string>
+    <string name="setting_frequency_hz">Hz</string>
+    <string name="setting_add_widget">Adicionar Widget</string>
+    <string name="not_torch_title">Torch on</string>
+    <string name="not_torch_summary">Torch currently on</string>
+    <string name="widget_label">Lanterna</string>
+    <string name="torch_message">Pode utilizar rápidamente a lanterna, pressionando o botão [icon], quando em lock screen</string>
+</resources>

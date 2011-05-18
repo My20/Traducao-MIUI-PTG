@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string name="application_name">Live Wallpaper Picker</string>
+  <string name="live_wallpaper_picker_title">Live wallpapers</string>
+  <string name="live_wallpaper_preview_title">previsão wallpaper Live</string>
+  <string name="configure_wallpaper">Definições...</string>
+  <string name="wallpaper_instructions">Definir papel de parede</string>
+  <string name="live_wallpaper_empty">Nenhum live wallpapers.</string>
+  <string name="set_live_wallpaper">Definir papel de parede</string>
+  <string name="wallpaper_title_and_author">%1$s by %2$s</string>
+  <string name="live_wallpaper_loading">Carregando live wallpaper…</string>
+</resources>
