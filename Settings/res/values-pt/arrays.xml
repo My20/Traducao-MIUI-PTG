@@ -78,7 +78,7 @@
         <item>1m</item>
         <item>5m</item>
         <item>10m</item>
-        <item>Desligado</item>
+        <item>Off</item>
     </string-array>
     <string-array name="screen_timeout_values">
         <item>30000</item>

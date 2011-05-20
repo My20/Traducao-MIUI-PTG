@@ -12,7 +12,7 @@
   <string name="menu_refresh">Actualizar</string>
   <string name="menu_sort_by_name">Ordenar por nome</string>
   <string name="menu_sort_by_traffic">Ordenar por tráfego</string>
-  <string name="menu_display_system_app">Exibir aplicativos de sistema</string>
+  <string name="menu_display_system_app">Ver aplicativos de sistema</string>
   <string name="menu_not_display_system_app">Ocultar aplicativos do sistema</string>
   <string name="duration_days">%d dias %d horas %d minutos</string>
   <string name="duration_hours">%d horas %d minutos</string>
@@ -47,7 +47,7 @@
   <string name="sms_traffic_limit">Limite de tráfego</string>
   <string name="mobile_traffic_limit">Limite de tráfego</string>
   <string name="display_system_app">Exibir aplicativos de sistema</string>
-  <string name="display_status_bar_notification">Mostrar na barra de notificação</string>
+  <string name="display_status_bar_notification">Ver na barra de notificação</string>
   <string name="notify_threshold_exceed">Limite ultrapassado!</string>
   <string name="fix_traffic">Repor estatísticas de tráfego</string>
   <string name="mobile_traffic_used">Redefinir o uso da Internet móvel</string>

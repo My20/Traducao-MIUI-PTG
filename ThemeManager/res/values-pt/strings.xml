@@ -34,7 +34,7 @@
   <string name="theme_component_title_ringtone">Toques</string>
   <string name="theme_component_title_notification">Toques de Notificação</string>
   <string name="theme_component_title_alarm">Alarme</string>
-  <string name="theme_component_title_phone">Telefone</string>
+  <string name="theme_component_title_contact">Teclado</string>
   <string name="theme_component_title_lockstyle">Estilo de Lockscreen</string>
   <string name="theme_component_title_statusbar">Barra de notificação</string>
   <string name="theme_component_title_others">Outro</string>
@@ -70,13 +70,13 @@
   <string name="confirm">OK</string>
   <string name="cancel">Cancelar</string>
   <string name="all_resources">%1$s On-line</string>
-  <string name="wallpaper_settings">Definir papel de parede</string>
-  <string name="desktop_wallpaper">Papéis de Parede</string>
-  <string name="live_wallpaper">Papel de parede ativo</string>
-  <string name="lockscreen_wallpaper">Papel de parede lockscreen</string>
+  <string name="wallpaper_settings">Definir fundo de ecrã</string>
+  <string name="desktop_wallpaper">Fundo de ecrã</string>
+  <string name="live_wallpaper">Fundo de ecrã ativo</string>
+  <string name="lockscreen_wallpaper">Lockscreen</string>
   <string name="component_settings_title">Tema actual</string>
   <string name="component_select_title">Selecione (%1$s)</string>
   <string name="component_include_title">Contém (%1$s)</string>
-  <string name="component_screen_title">Papel de Parede</string>
+  <string name="component_screen_title">Fundo de ecrã</string>
   <string name="resource_detail">Mais informação</string>
 </resources>
