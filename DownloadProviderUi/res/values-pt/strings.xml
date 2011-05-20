@@ -30,4 +30,9 @@
     <string name="pause_download_when_wifi_disconnected">Apenas Wi-Fi para transferir</string>
     <string name="download_when_network_connected">Transferir quando ligado a alguma rede</string>
     <string name="download_paused">Transferência em pausa</string>
+    <string name="download_pending">Transferência Pendente</string>
+    <string name="delete_runnable_downloads">Apagar transferências</string>
+    <string name="delete_downloads_records">Excluir histórico de transferências</string>
+    <string name="download_info_start_deleted_tasks">A preparar para excluir a tarefa</string>
+    <string name="download_info_count_deleted_tasks">Foram apagadas %s transferências</string>
 </resources>

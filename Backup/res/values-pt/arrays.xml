@@ -11,8 +11,10 @@
         <item>Contactos</item>
         <item>Registo de chamadas</item>
         <item>Mensagens</item>
+        <item>configurações do sistema</item>
 	<item>Configurações de Wi-Fi</item>
-        <item>Layout Desktop</item>        
+        <item>Layout Desktop</item>
+        <item>configurações do alarme</item>        
         <item>Notas</item>
     </string-array>
     <string-array name="app_type_desc">

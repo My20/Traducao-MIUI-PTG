@@ -400,6 +400,7 @@
   <string name="callrecordview_more_title">%s Chamadas</string>
   <string name="callrecordview_item_calls">%d Chamadas</string>
   <string name="callrecordview_item_op_time_missed">Chamadas perdidas</string>
+  <string name="callrecordview_item_op_time_rejected">Rejeitadas</string>
   <string name="callrecordview_item_newcontact">Novo contacto</string>
   <string name="callrecordview_item_op_time_short_incoming">%d seg</string>
   <string name="callrecordview_item_op_time_short_outgoing">%d seg</string>

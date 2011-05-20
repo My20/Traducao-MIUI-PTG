@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <resources>
   <string name="app_name">Backup</string>
   <string name="local_app_name">Backup</string>
-  <string name="local_home_title">Local Backup</string>
+  <string name="local_home_title">Backup</string>
   <string name="button_backup">Cópia de Segurança</string>
   <string name="start_backup">Iniciar Cópia de Segurança</string>
   <string name="button_cancel">Cancelar</string>
@@ -30,6 +30,7 @@
   <string name="restore_contacts_hit">(Nota: você precisa restaurar manualmente os contactos estabelecidos antes que a conta original)</string>
   <string name="restore_telephony_hit">(Nota: O processo de recuperação irá reiniciar o aplicativo de telefone)</string>
   <string name="restore_launcher_layout_hit">(Nota: layout do aplicativo de cópia de Segurança launcher)</string>
+  <string name="settings_summary">（Definições de SMS e telefone relacionadas）</string>
   <string name="cloud_app_name">Cloud Backup</string>
   <string name="cloud_home_title">Online</string>
   <string name="prompt_reading">A lêr...</string>
@@ -52,14 +53,38 @@
   <string name="cloud_backup_window_title">Cloud backup</string>
   <string name="cloud_backup_select_prompt">Por favor, selecione os itens para backup</string>
   <string name="cloud_restore_window_title">Recuperação Cloud</string>
-  <string name="cloud_restore_hint">Restauração Cloud</string>
+  <string name="cloud_restore_hint">Recuperação Cloud</string>
   <string name="cloud_restore_select_prompt">Selecione os itens para restaurar</string>
   <string name="local_backup_window_title">Local</string>
   <string name="local_restore_window_title">Recuperação local</string>
   <string name="account_hint">Conta MIUI:</string>
+  <string name="account_unlogin">Convidado</string>
+  <string name="account_login">Registe-se agora</string>
+  <string name="account_logout">Sair da sessão</string>
   <string name="auto_backup">Backup Automático</string>
+  <string name="backup_info">Detalhes Backup</string>
   <string name="button_backup_now">Backup agora</string>
   <string name="button_restore_data">Restaurar dados</string>
+  <string name="select_store">Selecione Arquivo</string>
+  <string name="contact_title">Contactos</string>
+  <string name="call_title">Registo de chamadas</string>
+  <string name="sms_title">SMS</string>
+  <string name="wifi_title">Configurações Wi-Fi</string>
+  <string name="last_backup_title">Ultimo Backup</string>
+  <string name="compute_backup_info">Informações de backup</string>
+  <string name="local_hint">Local</string>
+  <string name="cloud_hint">Online</string>
+  <string name="unknown_hint">Desconhecido</string>
+  <string name="unknown_name">Anônimo</string>
+  <string name="unbackup">Sem Suporte</string>
+  <string name="time_past">Passou</string>
+  <string name="day_unit">Dia</string>
+  <string name="time_past_you">Você tem</string>
+  <string name="un_cloud_backup">Nenhum backup online</string>
+  <string name="cloud_backup_for">Segurança cloud gratuita irá salvar os dados importantes</string>
+  <string name="network_status">Ligar à rede</string>
+  <string name="network_conn">Por favor, abra Wi-Fi ou rede de dados</string>
+  <string name="logout_dialog">Sair, cancelar também outros aplicativos usando MIUI status de login da conta, como MIUI sede, disco de rede, upgrade, atualização, etc</string>
   <string name="last_backup_hint">Último backup:</string>
   <string name="backup_stores_hint">Backup:</string>
   <string name="task_progress">Progresso</string>

@@ -1153,6 +1153,9 @@
   <string name="country_name_tm">Turkmenistan</string>
   <string name="country_name_az">Azerbaijan</string>
   <string name="country_name_ge">Georgia</string>
+  <string name="open_wifi_data_for_agps">Abrir automaticamente Wi-Fi, rede móvel assistida e posicionamento GPS, desliga automaticamente após 60 segundos</string>
+  <string name="open_wifi_for_agps">Abrir automaticamente Wi-Fi e posicionamento GPS, desliga automaticamente após 60 segundos</string>
+  <string name="open_data_for_agps">Abrir automaticamente a rede móvel assistida e posicionamento GPS, desliga automaticamente após 60 segundos</string>
   <string name="text_pastelist">%d copied to clipboard</string>
   <string name="select">Seleccionar</string>
   <string name="caller_info_name_delimiter">-</string>
