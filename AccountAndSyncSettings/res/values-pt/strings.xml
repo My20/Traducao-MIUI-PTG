@@ -48,7 +48,7 @@
 =======
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
-    <string name="app_label">Definições de conta e sincronização</string>
+    <string name="app_label">Definições da conta e sincronização</string>
     <string name="sync_settings">Contas e configurações de sincronização</string>
     <string name="sync_too_many_deletes">o limite foi excedido em Excluir</string>
     <string name="background_data">Dados de plano de fundo</string>
