@@ -27,5 +27,6 @@
         <item>Call Logs</item>
         <item>SMS</item>
         <item>Wi-Fi Settings</item>
+        <item>Notas</item>
     </string-array>
 </resources>

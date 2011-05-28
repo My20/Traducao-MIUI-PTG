@@ -119,7 +119,7 @@
         <item>sync_failing</item>
         <item>sync_active</item>
         <item>gps</item>
-	<item>headset</item>
+        <item>headset</item>
         <item>bluetooth</item>
         <item>nfc</item>
         <item>tty</item>

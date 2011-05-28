@@ -108,4 +108,9 @@
         <item>Editar tamanho da Imagem</item>
         <item>Apagar</item>
     </string-array>
+    <array name="callrecordview_menu_show_values">
+        <item>@string/callrecordview_menu_show_all</item>
+        <item>@string/callrecordview_menu_show_missed</item>
+        <item>@string/callrecordview_menu_show_stranger</item>
+    </array>
 </resources>

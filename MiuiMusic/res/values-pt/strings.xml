@@ -49,7 +49,7 @@
   <string name="ringtone_menu_short">Use música como toque</string>
   <string name="ringtone_set">%s foi definida como toque.</string>
   <string name="play_selection">Tocar seleccionados</string>
-  <string name="add_to_playlist">Adicionar à Lista Reprodução</string>
+  <string name="add_to_playlist">Pôr na Lista Reprodução</string>
   <string name="add_to_favorite">Adicionar aos favoritos</string>
   <string name="delete_from_favorite">Remover dos Favoritos</string>
   <string name="queue">Fila</string>
@@ -234,7 +234,7 @@
   <string name="tracks_name">Músicas</string>
   <string name="id3_edit">Modifique as informações ID3</string>
   <string name="id3_modify_confirm">Confirma que quer modificar as informações ID3</string>
-  <string name="modify_meta">Modificar as informações da música</string>
+  <string name="modify_meta">Editar</string>
   <string name="id3_edit_failed">Não foi possivel Modificar as informações ID3</string>
   <string name="meta_empty">Informação da música não pode ser nulo</string>
   <string name="albumPickerNotFoundText">Gallery não está instalado no telefone</string>
@@ -251,7 +251,7 @@
   <string name="album_download">Transferir Capa</string>
   <string name="album_downloading">A Transferir Capa...</string>
   <string name="album_search_result">Resultados de pesquisa da capa</string>
-  <string name="use_local_album">Usar a imagem local para fazer capas de discos</string>
+  <string name="use_local_album">Usar imagem local capa</string>
   <string name="album_search_failed">A arte do álbum não foi encontrada</string>
   <string name="download_album_helper">É para você transferir toda a arte do álbum</string>
   <string name="download_all_album">Transferir toda a arte do álbum</string>

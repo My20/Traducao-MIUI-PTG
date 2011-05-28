@@ -2,7 +2,7 @@
 <resources>
   <string name="config_import_vcard_type">default</string>
   <string name="config_export_vcard_type">default</string>
-  <string name="config_export_dir">/sdcard</string>
+  <string name="config_export_dir">/sdcard/MIUI/contactos</string>
   <string name="config_export_file_prefix" />
   <string name="config_export_file_suffix" />
   <string name="config_export_file_extension">vcf</string>
@@ -159,6 +159,8 @@
   <string name="import_from_sim">Importar do cartão SIM</string>
   <string name="import_from_sdcard">Importar do cartão de memória</string>
   <string name="export_to_sdcard">Exportar para o cartão de memória</string>
+  <string name="menu_checkall">Selecionar todos</string>
+  <string name="menu_uncheckall">Desmarcar todos</string>
   <string name="share_visible_contacts">Compartilhar contactos</string>
   <string name="import_one_vcard_string">Importar um arquivo vCard</string>
   <string name="import_multiple_vcard_string">Importar vários arquivos vCard</string>
@@ -390,12 +392,18 @@
   <string name="recommneded_photos">Foto recomendada</string>
   <string name="downloading_photos">Descarregar imagens</string>
   <string name="callButtonText">Ligar</string>
-  <string name="callrecordview_menu_phone_all">Ver todas as chamadas</string>
-  <string name="callrecordview_menu_phone_missed">Só chamadas perdidas</string>
-  <string name="callrecordview_menu_delete_one">Eliminar</string>
+  <string name="callrecordview_menu_show_title">Tipo de registo de chamadas</string>
+  <string name="callrecordview_menu_show_all">Ver todas as chamadas</string>
+  <string name="callrecordview_menu_show_missed">Só chamadas perdidas</string>
+  <string name="callrecordview_menu_show_stranger">Só números desconhecidos</string>
+  <string name="callrecordview_menu_delete_one">Remover do registo de chamadas</string>
+  <string name="callrecordview_menu_delete_missed">Limpar as chamadas não atendidas</string>
   <string name="callrecordview_menu_delete_stranger">Apagar Num. ocultos</string>
   <string name="callrecordview_menu_delete_all">Eliminar histórico</string>
-  <string name="callrecordview_menu_set">Definições</string>
+  <string name="callrecordview_menu_delete_confirm">Confirma %s?</string>
+  <string name="callrecordview_menu_settings">Definições</string>
+  <string name="callrecordview_menu_show">Registo de chamadas</string>
+  <string name="callrecordview_menu_paste">Colar</string>
   <string name="callrecordview_more">Ver mais</string>
   <string name="callrecordview_more_title">%s Chamadas</string>
   <string name="callrecordview_item_calls">%d Chamadas</string>
@@ -467,6 +475,9 @@
   <string name="incoming_call_photo_confirm">Use</string>
   <string name="incoming_call_photo_title">Mover ou Zoom</string>
   <string name="incoming_call_photo_saving">Salvar foto</string>
+  <string name="set_as_photo">Definir como foto de contato</string>
+  <string name="btn_replace">Substituir</string>
+  <string name="btn_ignore">Ignorar</string>
   <string name="remove">Apagar</string>
   <string name="check_all">Selecionar Tudo</string>
   <string name="check_nothing">Limpar tudo</string>
@@ -491,4 +502,5 @@
   <string name="remove_duplicate_contacts">A apagar contactos duplicados...</string>
   <string name="no_duplicate_contacts">Sem contatot duplicados</string>
   <string name="remove_duplicate_contacts_title">Apagar %d contatos duplicados na lista de contatos?</string>
+  <string name="import_preview_vcard">Importar vCard</string>
 </resources>

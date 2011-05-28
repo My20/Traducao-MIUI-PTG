@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <resources>
   <string name="app_name">Temas</string>
   <string name="theme_sdcard_missed_dialog_title">Cartão de memória não está acessível</string>
@@ -16,6 +16,10 @@
   <string name="backup_theme_success_message">Cópia de segurança do tema, efectuada com sucesso</string>
   <string name="theme_description_missed">Não</string>
   <string name="theme_description_title_default">Tema Padrão</string>
+  <string name="theme_description_picker_default">Toque padrão</string>
+  <string name="theme_description_ringtone_title_default">Toques do sistema</string>
+  <string name="theme_description_notification_title_default">Toque de notificação</string>
+  <string name="theme_description_alarm_title_default">Alarme</string>
   <string name="theme_description_title_customized">Tema Personalizado</string>
   <string name="theme_description_title_mute">Mute</string>
   <string name="theme_description_author">Autor:</string>
