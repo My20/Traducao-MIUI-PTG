@@ -10,16 +10,4 @@
         <item>Messagem</item>
         <item>Email</item>
     </string-array>
-    <string-array name="notelist_db_to_dist">
-        <item>Para crtão SD</item>
-        <item>Para email</item>
-    </string-array>
-    <string-array name="note_send_app">
-        <item>SMS</item>
-        <item>Email</item>
-    </string-array>
-    <string-array name="notelist_array_default_folder">
-        <item>Data</item>
-        <item>Memo do trabalho</item>
-    </string-array>
 </resources>

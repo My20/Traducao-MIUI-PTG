@@ -147,6 +147,46 @@
         <item>60hz</item>
         <item>off</item>
     </string-array>
+    <array name="iso_entries">
+        <item>@string/pref_camera_iso_auto</item>
+        <item>@string/pref_camera_iso_deblur</item>
+        <item>@string/pref_camera_iso_100</item>
+        <item>@string/pref_camera_iso_200</item>
+        <item>@string/pref_camera_iso_400</item>
+        <item>@string/pref_camera_iso_800</item>
+        <item>@string/pref_camera_iso_1250</item>
+        <item>@string/pref_camera_iso_deblur</item>
+        <item>@string/pref_camera_iso_100</item>
+        <item>@string/pref_camera_iso_200</item>
+        <item>@string/pref_camera_iso_400</item>
+        <item>@string/pref_camera_iso_800</item>
+        <item>@string/pref_camera_iso_1600</item>
+    </array>
+    <string-array name="iso_values">
+        <item>auto</item>
+        <item>deblur</item>
+        <item>100</item>
+        <item>200</item>
+        <item>400</item>
+        <item>800</item>
+        <item>1250</item>
+        <item>ISO_HJR</item>
+        <item>ISO100</item>
+        <item>ISO200</item>
+        <item>ISO400</item>
+        <item>ISO800</item>
+        <item>ISO1600</item>
+    </string-array>
+    <array name="autoexposure_entries">
+        <item>@string/pref_camera_autoexposure_average</item>
+        <item>@string/pref_camera_autoexposure_center</item>
+        <item>@string/pref_camera_autoexposure_spot</item>
+    </array>
+    <string-array name="autoexposure_values">
+        <item>meter-average</item>
+        <item>meter-center</item>
+        <item>meter-spot</item>
+    </string-array>
     <array name="referenceline_entries">
         <item>@string/pref_camera_referenceline_none</item>
         <item>@string/pref_camera_referenceline_magicsquare</item>

@@ -145,6 +145,13 @@
     <string-array name="tts_engine_values">
         <item>com.svox.pico</item>
     </string-array>
+    <string-array name="wifi_wps_method">
+        <item>Push Button</item>
+        <item>Pin Number</item>
+    </string-array>
+    <string-array name="wifi_wps_ssid">
+        <item>Any ssid</item>
+    </string-array>
     <string-array name="wifi_status">
         <item></item>
         <item>A Sondar...</item>
@@ -174,10 +181,16 @@
         <item>WEP</item>
         <item>WPA/WPA2 PSK</item>
         <item>802.1x EAP</item>
+        <item>WAPI PSK</item>
+        <item>WAPI CERT</item>
     </string-array>
     <string-array name="wifi_ap_security">
         <item>Open</item>
         <item>WPA2 PSK</item>
+    </string-array>
+    <string-array name="wifi_wapi_psk_type">
+        <item>WAPI PSK ASCII</item>
+        <item>WAPI PSK hexadecimal</item>
     </string-array>
     <string-array name="wifi_eap_method">
         <item>PEAP</item>

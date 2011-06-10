@@ -103,6 +103,7 @@
     <string name="unknown_artist_name">Artista Desconhecido</string>
     <string name="global_search_hint">Digite Palavra (s) para pesquisa</string>
     <string name="widget_global_search">Pesquisa Global</string>
+    <string name="gadget_flipclock_label">Relógio Flip</string>
     <string name="durationformatshort">%2$2d:%5$02d</string>
     <string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>
     <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>

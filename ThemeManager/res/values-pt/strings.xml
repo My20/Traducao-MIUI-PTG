@@ -41,6 +41,7 @@
   <string name="theme_component_title_contact">Teclado</string>
   <string name="theme_component_title_lockstyle">Estilo de Lockscreen</string>
   <string name="theme_component_title_statusbar">Barra de notificação</string>
+  <string name="theme_component_title_launcher">Desktop</string>
   <string name="theme_component_title_others">Outro</string>
   <string name="theme_component_title_all">Temas</string>
   <string name="pick_theme_title">Escolha o tema</string>
@@ -66,11 +67,10 @@
   <string name="online_hotest_short">Hot</string>
   <string name="online_latest_short">Novo</string>
   <string name="online_no_network">Rede ou conexão Wi-Fi disponível</string>
-  <string name="online_loading">A carregar</string>
+  <string name="loading">A carregar</string>
   <string name="download_failed">A transferência falhou</string>
   <string name="invalid_url">Arquivo inválido:</string>
-  <string name="cancel_all_download_task">Cancelar tudo</string>
-  <string name="resource_delete_confirm">Tem certeza que deseja apagar?</string>
+  <string name="resource_delete_confirm">Você deseja realmente apagar o arquivo?</string>
   <string name="confirm">OK</string>
   <string name="cancel">Cancelar</string>
   <string name="all_resources">%1$s On-line</string>
@@ -82,5 +82,5 @@
   <string name="component_select_title">Selecione (%1$s)</string>
   <string name="component_include_title">Contém (%1$s)</string>
   <string name="component_screen_title">Fundo de ecrã</string>
-  <string name="resource_detail">Mais informação</string>
+  <string name="resource_detail">Detalhes</string>
 </resources>

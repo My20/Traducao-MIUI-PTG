@@ -26,4 +26,10 @@
   <string name="title_usb_accessory">Acessório USB</string>
   <string name="label_view">Ver</string>
   <string name="always_use_accessory">Usar sempre este dispositivo USB</string>
+  <string name="usb_mode_notification">Dados USB</string>
+  <string name="usb_mode_mount_storage_summary">Programa não pode ser executado sobre o cartão de memória</string>
+  <string name="usb_mode_dont_ask">Não perguntar novamente</string>
+  <string name="usb_mode_mount_storage_title">Quer abrir armazenamento USB?</string>
+  <string name="mount_storage">Abrir</string>
+  <string name="dismount_storage">Fechar</string>
 </resources>

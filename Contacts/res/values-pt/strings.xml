@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <resources>
   <string name="config_import_vcard_type">default</string>
   <string name="config_export_vcard_type">default</string>
@@ -161,6 +161,7 @@
   <string name="export_to_sdcard">Exportar para o cartão de memória</string>
   <string name="menu_checkall">Selecionar todos</string>
   <string name="menu_uncheckall">Desmarcar todos</string>
+  <string name="menu_checkall_no_photo">Nenhuma imagem seleccionada</string>
   <string name="share_visible_contacts">Compartilhar contactos</string>
   <string name="import_one_vcard_string">Importar um arquivo vCard</string>
   <string name="import_multiple_vcard_string">Importar vários arquivos vCard</string>
@@ -322,8 +323,8 @@
   <string name="numberCountFormat">%s Números</string>
   <string name="menu_display_all">Ver todos os contactos</string>
   <string name="menu_display_only_phones">Mostrar apenas um número de telefone nos contactos</string>
-  <string name="openDialKeyboard">Dial pad</string>
-  <string name="nameContactsCount">%d Contacts</string>
+  <string name="openDialKeyboard">Teclado</string>
+  <string name="nameContactsCount">%d Contactos</string>
   <string name="contactsGroupsLabel">Grupos</string>
   <string name="group_summary_format">%s Membros</string>
   <string name="no_member">O grupo está vazio</string>
@@ -410,8 +411,8 @@
   <string name="callrecordview_item_op_time_missed">Chamadas perdidas</string>
   <string name="callrecordview_item_op_time_rejected">Rejeitadas</string>
   <string name="callrecordview_item_newcontact">Novo contacto</string>
-  <string name="callrecordview_item_op_time_short_incoming">%d seg</string>
-  <string name="callrecordview_item_op_time_short_outgoing">%d seg</string>
+  <string name="callrecordview_item_op_time_short_incoming">Recebida:\u0020</string>
+  <string name="callrecordview_item_op_time_short_outgoing">Efectuada:\u0020</string>
   <string name="callrecordview_item_op_time_only_seconds">%d segundos</string>
   <string name="callrecordview_item_op_time_only_minutes">%d min</string>
   <string name="callrecordview_item_op_time_minutes_seconds">%d min %d seg</string>
@@ -461,6 +462,7 @@
   <string name="sip_address">VOIP</string>
   <string name="contact_pick_photo_female">Mulher</string>
   <string name="contact_pick_photo_male">Homem</string>
+  <string name="contact_pick_photo_local">Escolher Imagem</string>
   <string name="quick_contact_send_sms">SMS</string>
   <string name="quick_contact_contact_detail">Detalhes</string>
   <string name="quick_contact_call">Chamar</string>
@@ -478,6 +480,10 @@
   <string name="set_as_photo">Definir como foto de contato</string>
   <string name="btn_replace">Substituir</string>
   <string name="btn_ignore">Ignorar</string>
+  <string name="scan_local_photos">Digitalizar fotos locais</string>
+  <string name="photo_count">Imagem Nº:%d</string>
+  <string name="photo_size">Tamanho:%sM</string>
+  <string name="set_photos">Configurando</string>
   <string name="remove">Apagar</string>
   <string name="check_all">Selecionar Tudo</string>
   <string name="check_nothing">Limpar tudo</string>
@@ -503,4 +509,5 @@
   <string name="no_duplicate_contacts">Sem contatot duplicados</string>
   <string name="remove_duplicate_contacts_title">Apagar %d contatos duplicados na lista de contatos?</string>
   <string name="import_preview_vcard">Importar vCard</string>
+  <string name="last_contacted">(Recentemente)</string>
 </resources>

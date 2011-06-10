@@ -72,7 +72,7 @@
   <string name="sync_progress_init_list">Obter lista de notas remotos...</string>
   <string name="sync_progress_syncing">Sincronizar notas locais com Google Task...</string>
   <string name="preferences_title">Configurações</string>
-  <string name="preferences_account_title">Configuração de conta de sincronização</string>
+  <string name="preferences_account_title">Configurar conta de sincronização</string>
   <string name="preferences_account_summary">Sincronizar notas com Google Task</string>
   <string name="preferences_last_sync_time">Última sincronização em %1$s</string>
   <string name="preferences_last_sync_time_format">dd-MM-yyyy hh:mm:ss</string>
@@ -90,10 +90,10 @@
   <string name="preferences_toast_success_set_accout">%1$s foi definida como a conta de sincronização</string>
   <string name="preferences_set_password_title">Definir uma senha pessoal</string>
   <string name="preferences_set_password_summary">Senha global é necessária ao iniciar as notas</string>
-  <string name="preferences_bg_random_appear_title">Cor da nota aleatório</string>
+  <string name="preferences_bg_random_appear_title">Côr da nota aleatório</string>
   <string name="button_delete">Apagar</string>
   <string name="button_cancel">Cancelar</string>
-  <string name="button_check">Seleccionar tudo</string>
+  <string name="button_check">Todas</string>
   <string name="button_check_none">Desmarcar todas</string>
   <string name="button_move">Mover</string>
   <string name="call_record_folder_name">Registo da chamada</string>
@@ -103,5 +103,5 @@
   <string name="search_setting_description">Texto em suas anotações</string>
   <string name="search">Notas</string>
   <string name="search_empty">Corresponde a nota</string>
-  <string name="preferences_bg_random_appear_summary">Backgrounds aleatórios para notas</string>
+  <string name="preferences_bg_random_appear_summary">Côr aleatória do fundo</string>
 </resources>
