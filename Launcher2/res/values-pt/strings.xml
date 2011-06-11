@@ -69,8 +69,8 @@
     <string name="edit_folder_title">Editar pasta</string>
     <string name="confirm_btn_label">OK</string>
     <string name="cancel_btn_label">Cancelar</string>
-    <string name="enable_hidden">Ocultar aplicativos</string>
-    <string name="show_hidden">Mostrar aplicações ocultas</string>
+    <string name="enable_hidden">Ocultar Ficheiros</string>
+    <string name="show_hidden">Mostrar Ficheiros</string>
     <string name="set_password">Definir senha</string>
     <string name="sort_by_not_defined">Ordenar por ordem padrão</string>
     <string name="sort_by_frequency">Ordenar por frequência</string>
