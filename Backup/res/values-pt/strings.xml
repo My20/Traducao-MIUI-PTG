@@ -44,7 +44,7 @@
   <string name="menu_formal_host">Live Server</string>
   <string name="ok_reset">Reset completar</string>
   <string name="backup_new">Novo</string>
-  <string name="backup_update">Update</string>
+  <string name="backup_update">Atualizar</string>
   <string name="backup_delete">Apagar</string>
   <string name="findlost_contact">Find deleted contact(s)</string>
   <string name="welcome_cloud_backup">Cloud backup</string>
@@ -69,8 +69,8 @@
   <string name="contact_title">Contacts</string>
   <string name="call_title">Registo de chamadas</string>
   <string name="sms_title">SMS</string>
-  <string name="wifi_title">Wi-Fi Settings</string>
-  <string name="note_title">Notes</string>
+  <string name="wifi_title">Definições Wi-Fi</string>
+  <string name="note_title">Notas</string>
   <string name="last_backup_title">Ultimo Backup</string>
   <string name="compute_backup_info">Informações de backup</string>
   <string name="local_hint">Local</string>

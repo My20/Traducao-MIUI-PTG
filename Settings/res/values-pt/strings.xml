@@ -1044,8 +1044,8 @@
   <string name="personal_password_for_mms_title">SMS / MMS</string>
   <string name="personal_password_for_mms_summary">SMS / MMS exige senha para visualizar as mensagens</string>
   <string name="personal_password_for_firewall_title">Modo DND</string>
-  <string name="personal_password_for_notes_title">Notes Settings</string>
-  <string name="personal_password_for_notes_summary">Require password when entering Notes</string>
+  <string name="personal_password_for_notes_title">Configurar Notas</string>
+  <string name="personal_password_for_notes_summary">Precisa de senha ao entrar nas Notas</string>
   <string name="personal_password_for_firewall_summary">Requer senha para entrar no modo DND</string>
   <string name="personal_password_for_dialer_title">Chamar</string>
   <string name="personal_password_for_dialer_summary">Dialer exige senha para a função</string>

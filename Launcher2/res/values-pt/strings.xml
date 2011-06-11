@@ -73,8 +73,8 @@
     <string name="show_hidden">Mostrar aplicações ocultas</string>
     <string name="set_password">Definir senha</string>
     <string name="sort_by_not_defined">Ordenar por ordem padrão</string>
-    <string name="sort_by_frequency">Ordenar por freqüência de uso</string>
-    <string name="sort_by_abc">Ordenar por nome de aplicação</string>
+    <string name="sort_by_frequency">Ordenar por frequência</string>
+    <string name="sort_by_abc">Ordenar por nome</string>
     <string name="encryption">Encriptação</string>
     <string name="preferences_title">Preferências</string>
     <string name="preferences_general_title">Definições Gerais</string>
