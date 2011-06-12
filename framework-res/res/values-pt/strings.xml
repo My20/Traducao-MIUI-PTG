@@ -831,7 +831,7 @@
   <string name="usb_storage_stop_message">Antes de desactivar o armazenamento USB, verifique se desconectou (ejectou) o cartão SD do Android do computador.</string>
   <string name="usb_storage_stop_button_mount">desactivar o armazenamento USB</string>
   <string name="usb_storage_stop_error_message">Houve um problema ao desactivar o armazenamento USB. Verifique se desconectou o host USB e tente novamente.</string>
-  <string name="dlg_confirm_kill_storage_users_title">activar o armazenamento USB</string>
+  <string name="dlg_confirm_kill_storage_users_title">Activar o armazenamento USB</string>
   <string name="dlg_confirm_kill_storage_users_text">Se você activar o armazenamento USB, algumas aplicações que estão em uso serão interrompidos e poderão não estar disponíveis até você desactivar o armazenamento USB.</string>
   <string name="dlg_error_title">Falha de operação de USB</string>
   <string name="dlg_ok">Ok</string>
@@ -949,7 +949,7 @@
   <string name="private_num">Número Privado</string>
   <string name="payphone">Telefone público</string>
   <string name="callNoAnswerTimeFormat">%s Toque(s)</string>
-  <string name="callDetailsDurationFormat">%1$s minutos %2$s Segundos</string>
+  <string name="callDetailsDurationFormat">%1$s min %2$s Seg</string>
   <string name="firewall_setting">Anti-perturbe</string>
   <string name="date_day">Data</string>
   <string name="lunar_calendar">Calendário Lunar</string>

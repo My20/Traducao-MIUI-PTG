@@ -38,9 +38,9 @@
   <string name="android_system">Sistema Android</string>
   <string name="mobile_traffic">2G/3G Tráfego livre</string>
   <string name="call_sms_detail_title">Telefone e mensagens de texto deste mês</string>
-  <string name="outgoing_call">Saída</string>
-  <string name="incoming_call">Entrada</string>
-  <string name="outgoing_sms">SMS enviadas</string>
+  <string name="outgoing_call">Chamadas</string>
+  <string name="incoming_call">Recebidas</string>
+  <string name="outgoing_sms">Mensagens enviadas</string>
   <string name="outgoing_sms_number_format">Artigo %d</string>
   <string name="traffic_detail">Detalhes do tráfego</string>
   <string name="network_control">Switch de rede</string>

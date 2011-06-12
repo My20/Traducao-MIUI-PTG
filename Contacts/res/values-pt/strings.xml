@@ -128,7 +128,7 @@
   <string name="callBack">Chamada de volta</string>
   <string name="callAgain">Chamar novamente</string>
   <string name="returnCall">Retornar chamada</string>
-  <string name="callDetailsDurationFormat">%1$s minutos %2$s segundos</string>
+  <string name="callDetailsDurationFormat">%1$s min %2$s seg</string>
   <string name="favoritesFrquentSeparator">Contactos frequentes</string>
   <string name="add_contact_dlg_title">Adicionar contacto</string>
   <string name="add_contact_dlg_message_fmt">Adicionar \"%s\" para contactos?</string>
@@ -396,7 +396,7 @@
   <string name="callrecordview_menu_show_title">Tipo de registo de chamadas</string>
   <string name="callrecordview_menu_show_all">Ver todas as chamadas</string>
   <string name="callrecordview_menu_show_missed">Só chamadas perdidas</string>
-  <string name="callrecordview_menu_show_stranger">Só números desconhecidos</string>
+  <string name="callrecordview_menu_show_stranger">Só números ocultos</string>
   <string name="callrecordview_menu_delete_one">Remover do registo de chamadas</string>
   <string name="callrecordview_menu_delete_missed">Limpar as chamadas não atendidas</string>
   <string name="callrecordview_menu_delete_stranger">Apagar Num. ocultos</string>
@@ -408,12 +408,12 @@
   <string name="callrecordview_more">Ver mais</string>
   <string name="callrecordview_more_title">%s Chamadas</string>
   <string name="callrecordview_item_calls">%d Chamadas</string>
-  <string name="callrecordview_item_op_time_missed">Chamadas perdidas</string>
+  <string name="callrecordview_item_op_time_missed">Não atendeu</string>
   <string name="callrecordview_item_op_time_rejected">Rejeitadas</string>
   <string name="callrecordview_item_newcontact">Novo contacto</string>
   <string name="callrecordview_item_op_time_short_incoming">Recebida:\u0020</string>
   <string name="callrecordview_item_op_time_short_outgoing">Efectuada:\u0020</string>
-  <string name="callrecordview_item_op_time_only_seconds">%d segundos</string>
+  <string name="callrecordview_item_op_time_only_seconds">%d seg</string>
   <string name="callrecordview_item_op_time_only_minutes">%d min</string>
   <string name="callrecordview_item_op_time_minutes_seconds">%d min %d seg</string>
   <string name="group_delete_confirmation">Deseja eliminar o(s) grupo(s)?</string>

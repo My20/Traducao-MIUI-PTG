@@ -3,7 +3,7 @@
   <string name="app_name">Temas</string>
   <string name="theme_sdcard_missed_dialog_title">Cartão de memória não está acessível</string>
   <string name="theme_sdcard_missed_dialog_message">Verifique se o cartão de memória é inserido e o telefone não está no modo de transferência de dados.</string>
-  <string name="theme_changing_dialog_title">Preparando novo tema, por favor aguarde...</string>
+  <string name="theme_changing_dialog_title">Instalando novo tema, por favor aguarde...</string>
   <string name="theme_changed_message">Instalação do tema foi um sucesso!</string>
   <string name="theme_changed_failed_message">Falha ao mudar o tema!</string>
   <string name="theme_activity_lable">Temas</string>

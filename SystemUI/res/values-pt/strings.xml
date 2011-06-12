@@ -29,7 +29,7 @@
   <string name="usb_mode_notification">Dados USB</string>
   <string name="usb_mode_mount_storage_summary">Programa não pode ser executado sobre o cartão de memória</string>
   <string name="usb_mode_dont_ask">Não perguntar novamente</string>
-  <string name="usb_mode_mount_storage_title">Quer abrir armazenamento USB?</string>
-  <string name="mount_storage">Abrir</string>
-  <string name="dismount_storage">Fechar</string>
+  <string name="usb_mode_mount_storage_title">Quer montar o USB?</string>
+  <string name="mount_storage">Montar USB</string>
+  <string name="dismount_storage">Só Carregar</string>
 </resources>

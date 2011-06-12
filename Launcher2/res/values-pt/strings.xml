@@ -62,7 +62,7 @@
     <string name="failed_to_drop_widget_invalid">Plug-inválido</string>
     <string name="failed_to_delete_temporary">Falha ao excluir, por favor, tente novamente.</string>
     <string name="widget_box_usage_hint">Pressionar e arrastar o widget para o local desejado</string>
-    <string name="widget_favorite_contacts_lable">Contactos favoritos</string>
+    <string name="widget_favorite_contacts_label">Contactos favoritos</string>
     <string name="widget_favorite_contacts_edit">Editar Grupos</string>
     <string name="widget_favorite_contacts_style">Mudar tamanho</string>
     <string name="edit_folder_label">Modificar o nome da pasta</string>
@@ -95,7 +95,7 @@
     <string name="transformation_type_leftpage">Página</string>
     <string name="transformation_type_stack">Em cascata</string>
     <string name="transformation_type_rotate">Rotação</string>
-    <string name="widget_gadget_player">Music_4x</string>
+    <string name="widget_gadget_player">Música(4x)</string>
     <string name="buffering">A criar buffer...</string>
     <string name="emptyplaylist">Lista está vazia</string>
     <string name="sdcard_missing_title">Cartão SD não encontrado</string>

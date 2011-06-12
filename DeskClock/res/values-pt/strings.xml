@@ -30,7 +30,7 @@
     <string name="every_day">todos os dias</string>
     <string name="never">Nunca</string>
     <string name="day_concat">,\u0020</string>
-    <string name="analog_gadget">Relógio analógico</string>
+    <string name="analog_gadget">Relógio</string>
     <string name="settings">Configurações</string>
     <string name="alarm_in_silent_mode_title">Modo silencioso</string>
     <string name="alarm_in_silent_mode_summary">Tocar o alarme mesmo quando o telefone estiver no modo silencioso</string>
