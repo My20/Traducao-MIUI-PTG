@@ -1,33 +1,33 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="app_name">Gravador</string>
-  <string name="recording">Gravando</string>
-  <string name="recording_stopped">Gravação interrompida</string>
-  <string name="storage_is_full">O armazenamento está cheio</string>
-  <string name="max_length_reached">Tamanho máximo atingido</string>
-  <string name="insert_sd_card">Insira um cartão SD</string>
-  <string name="button_ok">OK</string>
-  <string name="timer_format">%02d:%02d</string>
-  <string name="audio_db_title_format">dd-MM-yyyy HH:mm:ss</string>
-  <string name="audio_db_artist_name">Suas gravações</string>
-  <string name="audio_db_album_name">Gravações de áudio</string>
-  <string name="audio_db_playlist_name">Minhas gravações</string>
-  <string name="error_sdcard_access">Não é possível acessar o cartão SD</string>
-  <string name="error_app_internal">Erro interno do aplicativo</string>
-  <string name="error_mediadb_new_record">Não é possível salvar o áudio gravado</string>
-  <string name="default_record_name">registro sem título</string>
-  <string name="menu_view_record_list">Ver lista de registros</string>
-  <string name="menu_setting">Configurações</string>
-  <string name="delete_dialog_title">Deseja excluir o registro atual?</string>
-  <string name="overwrite_dialog_title">%s já existe. Você deseja substituí-lo?</string>
-  <string name="preferences_title">Configurações</string>
-  <string name="pref_title_record_type">Gravar tipo de arquivo</string>
-  <string name="prefDialogTitle_recordType">Selecione o tipo de arquivo</string>
-  <string name="prefDefault_recordType">audio/3gpp</string>
-  <string name="pref_title_enable_high_quality">Activar alta qualidade</string>
-  <string name="pref_summary_enable_high_quality">O arquivo de áudio com alta qualidade pode ser maior</string>
-  <string name="pref_title_enable_sound_effect">Ativar efeito de som</string>
-  <string name="pref_summary_enable_sound_effect">Reproduzir efeito sonoro quando o estado é alterado</string>
-  <string name="notification_recording">Gravação</string>
-  <string name="notification_stopped">A gravação foi interrompida</string>
+    <string name="app_name">Gravador</string>
+    <string name="recording">Gravando</string>
+    <string name="recording_stopped">Gravação interrompida</string>
+    <string name="storage_is_full">O armazenamento está cheio</string>
+    <string name="max_length_reached">Tamanho máximo atingido</string>
+    <string name="insert_sd_card">Insira um cartão SD</string>
+    <string name="button_ok">OK</string>
+    <string name="timer_format" formatted="false">%02d:%02d</string>
+    <string name="audio_db_title_format">dd-MM-yyyy HH:mm:ss</string>
+    <string name="audio_db_artist_name">Suas gravações</string>
+    <string name="audio_db_album_name">Gravações de áudio</string>
+    <string name="audio_db_playlist_name">Minhas gravações</string>
+    <string name="error_sdcard_access">Não é possível acessar o cartão SD</string>
+    <string name="error_app_internal">Erro interno do aplicativo</string>
+    <string name="error_mediadb_new_record">Não é possível salvar o áudio gravado</string>
+    <string name="default_record_name">registro sem título</string>
+    <string name="menu_view_record_list">Ver lista de registros</string>
+    <string name="menu_setting">Configurações</string>
+    <string name="delete_dialog_title">Deseja excluir o registro atual?</string>
+    <string name="overwrite_dialog_title">%s já existe. Você deseja substituí-lo?</string>
+    <string name="preferences_title">Configurações</string>
+    <string name="pref_title_record_type">Gravar tipo de arquivo</string>
+    <string name="prefDialogTitle_recordType">Selecione o tipo de arquivo</string>
+    <string name="prefDefault_recordType">audio/3gpp</string>
+    <string name="pref_title_enable_high_quality">Activar alta qualidade</string>
+    <string name="pref_summary_enable_high_quality">O arquivo de áudio com alta qualidade pode ser maior</string>
+    <string name="pref_title_enable_sound_effect">Ativar efeito de som</string>
+    <string name="pref_summary_enable_sound_effect">Reproduzir efeito sonoro quando o estado é alterado</string>
+    <string name="notification_recording">Gravação</string>
+    <string name="notification_stopped">A gravação foi interrompida</string>
 </resources>
