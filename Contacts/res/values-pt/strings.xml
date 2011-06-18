@@ -505,9 +505,18 @@
   <string name="dialer_empty_text_no_search_result">Nenhum contato foi encontrado</string>
   <string name="menu_remove_duplicate">Remover duplicados</string>
   <string name="scan_duplicate_contacts">Procurando contatos duplicados...</string>
-  <string name="remove_duplicate_contacts">A apagar contactos duplicados...</string>
-  <string name="no_duplicate_contacts">Sem contatot duplicados</string>
-  <string name="remove_duplicate_contacts_title">Apagar %d contatos duplicados na lista de contatos?</string>
+  <string name="aggregate_contacts">Unindo %s</string>
+  <string name="done_merge_duplicate_contacts">Contatos foram unidos</string>
+  <string name="merge_duplicate_contacts_title">Unir Contatos</string>
   <string name="import_preview_vcard">Importar vCard</string>
   <string name="last_contacted">(Recentemente)</string>
+  <string name="btn_remove">Remover</string>
+  <string name="btn_delete">Apagar</string>
+  <string name="confirm_remove_title">Confirma que apaga</string>
+  <string name="confirm_remove_starred_message">Remove %d contatos dos favoritos</string>
+  <string name="confirm_remove_contacts_message">Apaga %d contatos selecionados</string>
+  <string name="confirm_edit_group_message">Os selecionados %d serão removidos</string>
+  <string name="no_duplicate_contacts">Sem contatos duplicados</string>
+  <string name="remove_duplicate_contacts">Apagando contatos duplicados...</string>
+  <string name="remove_duplicate_contacts_title">Apagar %d contatos duplicados?</string>
 </resources>

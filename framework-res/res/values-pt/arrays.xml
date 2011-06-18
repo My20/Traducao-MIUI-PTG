@@ -196,10 +196,7 @@
         <item>10</item>
         <item>10</item>
     </integer-array>
-    <integer-array name="config_virtualKeyUpPattern">
-        <item>5</item>
-        <item>18</item>
-    </integer-array>
+    <array name="config_virtualKeyUpPattern" />
     <integer-array name="config_autoBrightnessLevels">
         <item>200</item>
         <item>400</item>

@@ -77,8 +77,8 @@
     <string name="save_label">Concluído</string>
     <string name="discard_label">Reverter</string>
     <string name="import_label">Importar</string>
-    <string name="snooze_all_label">Colocar todos em modo de espera</string>
-    <string name="dismiss_all_label">Encerrar tudo</string>
+    <string name="snooze_all_label">Lembrar mais tarde</string>
+    <string name="dismiss_all_label">Descartar todos</string>
     <string name="does_not_repeat">Evento único</string>
     <string name="daily">Diariamente</string>
     <string name="every_weekday">Todos os dias da sem. (seg a sex)</string>

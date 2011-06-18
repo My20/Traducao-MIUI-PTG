@@ -370,4 +370,6 @@
   <string name="flatshow_page_no">%1$d</string>
   <string name="loading_contacts">Carregando contatos...</string>
   <string name="prepare_send">Preparando para enviar...</string>
+  <string name="activity_not_found">Não é possivel abrir anexo</string>
+  <string name="fetion_prefix">[Fetion]</string>
 </resources>

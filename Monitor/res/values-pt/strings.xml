@@ -90,11 +90,8 @@
   <string name="fw_set_keyword">Definir filtros de palavras-chave</string>
   <string name="fw_notification_settings">Avisos e outros</string>
   <string name="show_firewall_notification">Ícone Permanente</string>
-  <string name="show_firewall_notification_summary">Firewall começa com ícone na barra de status</string>
   <string name="show_notification">Mostrar notificação</string>
-  <string name="show_notification_summary">DND mostra notificações na barra de status</string>
   <string name="fw_goto_password_settings">Configurações de senha</string>
-  <string name="fw_goto_password_settings_summary">Definir uma senha pessoal para segurança</string>
   <string name="opt_reject_blacklist">Bloquear da Blacklist</string>
   <string name="opt_reject_blacklist_stranger">Rejeitar de números ocultos</string>
   <string name="opt_accept_whitelist">Aceitar de Whitelist</string>

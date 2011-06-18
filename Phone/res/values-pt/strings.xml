@@ -664,5 +664,5 @@
   <string name="set_primary">SetPrimary</string>
   <string name="advanced_settings_container">recipiente configurações avançadas</string>
   <string name="auth_username">AuthUserName</string>
-  <string name="card_title_my_phone_number">O Meu número é：%s</string>
+  <string name="card_title_my_phone_number">O Meu número： %s</string>
 </resources>

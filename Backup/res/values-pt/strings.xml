@@ -4,7 +4,7 @@
   <string name="local_app_name">Backup</string>
   <string name="local_home_title">Local</string>
   <string name="button_backup">Backup</string>
-  <string name="start_backup">Iniciar Cópia de Segurança</string>
+  <string name="start_backup">Iniciar Backup</string>
   <string name="button_cancel">Cancel</string>
   <string name="backup_empty">Nenhuma Cópia de Segurança encontrada!</string>
   <string name="backup_items_sysdata_tailer">\u0020Dados do Sistema</string>
@@ -143,10 +143,10 @@
   <string name="local_select_sysdata">Sistema</string>
   <string name="local_select_userapp">Aplicações</string>
   <string name="auto_backup_setting_title">Backup automático</string>
-  <string name="auto_backup_open">Abrir o backup automático</string>
-  <string name="auto_backup_only_wifi">Backup automático somente quando Wi-Fi está ativa</string>
-  <string name="auto_backup_interval">Frequência de backup (intervalos de dias)</string>
-  <string name="auto_backup_interval_hint1">Cada</string>
+  <string name="auto_backup_open">Backup automático</string>
+  <string name="auto_backup_only_wifi">Só Wi-Fi está ativo</string>
+  <string name="auto_backup_interval">Frequência de backup</string>
+  <string name="auto_backup_interval_hint1">Cada </string>
   <string name="auto_backup_interval_hint2">Dias de tempo de backup</string>
   <string name="auto_backup_time">Backup Agendado</string>
   <string name="auto_backup_choose_title">Programar backup automático</string>
