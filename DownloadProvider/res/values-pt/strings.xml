@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_label">Gerenciador de downloads</string>
     <string name="permlab_downloadManager">Acessar o gerenciador de download.</string>
@@ -16,15 +16,19 @@
     <string name="permlab_accessAllDownloads">Aceder a todas as transferências do sistema</string>
     <string name="permdesc_accessAllDownloads">Permite que a aplicação visualize e modifique todas as iniciadas por qualquer aplicativo no sistema.</string>
     <string name="download_unknown_title">&lt;Sem título</string>
-    <string name="notification_filename_separator">,\u0020</string>
-    <string name="notification_filename_extras">\u0020e %d mais</string>
+    <string name="notification_filename_separator">", "</string>
+    <string name="notification_filename_extras">" e %d mais"</string>
     <string name="notification_download_complete">Download concluído</string>
     <string name="notification_download_failed">Falha no download</string>
     <string name="notification_need_wifi_for_size">O tamanho da transferência requer uma ligação Wi-Fi</string>
     <string name="wifi_required_title">Download muito grande para operador de rede</string>
-    <string name="wifi_required_body">Você deve usar WiFi para concluir este %s download. \n\nClique %s para iniciar este download na próxima vez que você estiver conectado a uma rede WiFi.</string>
+    <string name="wifi_required_body" formatted="false">"Você deve usar WiFi para concluir este %s download. 
+
+Clique %s para iniciar este download na próxima vez que você estiver conectado a uma rede WiFi."</string>
     <string name="wifi_recommended_title">Transferir mais tarde?</string>
-    <string name="wifi_recommended_body">Começar esta %s transferência agora pode encurtar a vida útil da bateria e ou resultar no uso excessivo de sua conexão de dados móvel, que pode levar a taxas pela operadora móvel, dependendo do seu plano de dados.\n\n Clique %s abaixo para começar este download na próxima vez que você estiver conectado a uma rede WiFi.</string>
+    <string name="wifi_recommended_body" formatted="false">"Começar esta %s transferência agora pode encurtar a vida útil da bateria e ou resultar no uso excessivo de sua conexão de dados móvel, que pode levar a taxas pela operadora móvel, dependendo do seu plano de dados.
+
+ Clique %s abaixo para começar este download na próxima vez que você estiver conectado a uma rede WiFi."</string>
     <string name="button_queue_for_wifi">Em espera</string>
     <string name="button_cancel_download">Cancelar</string>
     <string name="button_start_now">Iniciar agora</string>
